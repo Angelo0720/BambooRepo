@@ -14,7 +14,7 @@
 
 <div class="jumbotron text-center">
   <h1>[Bamboo Test Project]</h1>
-  <p>DevOps Sample Project</p> 
+  <p>Bamboo CI-CD Sample Project</p> 
 </div>
   
 <div class="container">

@@ -28,7 +28,7 @@
     
     
     <div class="col-sm-4" align="center">
-      <h3>CALCULATOR!!!!</h3>
+      <h3>CALCULATOR</h3>
       <p>huehuehue</p>
       
 			      <FORM NAME="Calc">

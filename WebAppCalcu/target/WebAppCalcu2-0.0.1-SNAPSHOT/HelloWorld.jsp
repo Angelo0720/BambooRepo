@@ -29,7 +29,7 @@
     
     <div class="col-sm-4" align="center">
       <h3>CALCULATOR</h3>
-      <p>Bamboo test project</p>
+      <p>Bamboo Test Project</p>
       
 			      <FORM NAME="Calc">
 				<TABLE BORDER=10>

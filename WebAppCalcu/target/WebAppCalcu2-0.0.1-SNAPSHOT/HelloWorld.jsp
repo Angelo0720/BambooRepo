@@ -23,7 +23,7 @@
   
     <div class="col-sm-4" align="center">
       <h3>put something here</h3>
-      <p>HOHOHO</p>
+      <p>HOHOHOHO</p>
     </div>
     
     

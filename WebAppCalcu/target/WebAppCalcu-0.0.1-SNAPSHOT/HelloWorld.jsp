@@ -13,7 +13,7 @@
 <body>
 
 <div class="jumbotron text-center">
-  <h1>[Project Simulation]</h1>
+  <h1>[Bamboo Sample Project]</h1>
   <p>DevOps Sample Project</p> 
 </div>
   

@@ -28,7 +28,7 @@
     
     
     <div class="col-sm-4" align="center">
-      <h3>CALCULATOR SAMPLE</h3>
+      <h3>CALCULATOR SAMPLE BAMBOO</h3>
       <p>hahahahaha</p>
       
 			      <FORM NAME="Calc">

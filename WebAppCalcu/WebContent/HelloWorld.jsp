@@ -13,8 +13,8 @@
 <body>
 
 <div class="jumbotron text-center">
-  <h1>[Bamboo POC]</h1>
-  <p>DevOps Sample Project</p> 
+  <h1>[Bamboo Proof of Concept]</h1>
+  <p>CI-CD Demo for Bamboo</p> 
 </div>
   
 <div class="container">

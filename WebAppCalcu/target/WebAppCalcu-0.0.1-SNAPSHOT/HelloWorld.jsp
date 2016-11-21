@@ -13,8 +13,8 @@
 <body>
 
 <div class="jumbotron text-center">
-  <h1>[Bamboo Sample Project]</h1>
-  <p>DevOps Sample Project</p> 
+  <h1>[Bamboo Proof of Concept]</h1>
+  <p>CI-CD Demo for Bamboo</p> 
 </div>
   
 <div class="container">
@@ -28,7 +28,7 @@
     
     
     <div class="col-sm-4" align="center">
-      <h3>CALCULATOR SAMPLE BAMBOO</h3>
+      <h3>CALCULATOR!!!!</h3>
       <p>hahahahaha</p>
       
 			      <FORM NAME="Calc">
